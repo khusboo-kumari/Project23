@@ -25,3 +25,6 @@ Uploaded_Resumes folder is contaning the user's uploaded resumes.
 Classifier.py is the main file which is containing a KNN Algorithm.
 
 Admin side credentials is hr_selection and password is selection@0123.
+
+3.Automatic Resume  builder 
+  Software used : HTML,CSS .JavaScript
